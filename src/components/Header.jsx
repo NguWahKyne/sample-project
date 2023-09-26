@@ -23,7 +23,7 @@ const Header = () => {
     </div>
 </div>
 <div className= 'bg-white shadow '>
-<div>
+<nav>
     <div className="flex flex-wrap pt-6 px-6 py-6">
         <div className="w-full sm:w-1/2 md:w-1/3 px-4 pb-2 pt-2 flex items-center justify-center pl-10">
             <img src="../src/assets/logo.png" alt="Logo" className='ml-10'/> 
@@ -40,7 +40,7 @@ const Header = () => {
             </span>
         </div>
     </div>
-</div>
+</nav>
 </div>
 
 {/* // <div className='Header'>
